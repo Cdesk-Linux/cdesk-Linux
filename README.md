@@ -7,10 +7,18 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Building Linux distribution 
 - 🌱 I’m currently learning kernel compilation 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Linux development
+- 🤔 I’m looking for help with programs 
 - 💬 Ask me about when it will be released 
 - 📫 How to reach me: spt.cdesk@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on Building Linux distribution 
+- 🌱 I’m currently learning kernel compilation 
+- 👯 I’m looking to collaborate on Linux development
+- 🤔 I’m looking for help with programs 
+- 💬 Ask me about when it will be released 
+- 📫 How to reach me: spt.cdesk@gmail.com
